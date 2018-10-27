@@ -1,0 +1,5 @@
+git checkout master
+
+git pull https://github.com/LineageOS/android_packages_apps_Jelly.git cm-14.1
+
+git push origin master
